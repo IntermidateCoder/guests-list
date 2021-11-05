@@ -42,4 +42,4 @@ function searching() {
     }
     document.getElementById("p2").innerHTML = "name found " + found + " time/s";
     console.log("found name " + found + " time/s");
-}}
+}
